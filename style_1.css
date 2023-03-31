@@ -1,0 +1,13 @@
+header{
+    background-color: #005C9E;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+body{
+    background-color: aliceblue;
+}
