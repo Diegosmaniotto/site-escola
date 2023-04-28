@@ -1,3 +1,11 @@
-body{
-    background-color: #005C9E;
+header {
+    background-color: rgb(76, 0, 255);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
 }
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
